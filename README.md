@@ -160,7 +160,7 @@ axios
 
 | Upload Screen | Results Screen |
 |---|---|
-| ![upload](#) | ![results](#) |
+| ![upload](https://github.com/user-attachments/assets/147a021d-147e-4b07-a3c0-ef193a2037b7) | ![results](#) |
 
 ---
 
