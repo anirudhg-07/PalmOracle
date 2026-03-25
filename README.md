@@ -79,7 +79,7 @@ palmistry-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/palmistry-ai.git
+git clone https://github.com/anirudhg-07/PalmOracle-Palmistry.git
 cd palmistry-ai
 ```
 
@@ -186,7 +186,6 @@ axios
 
 **G Anirudh**
 SRM Institute of Science and Technology
-Reg. No: RA2411003010020
 
 ---
 
