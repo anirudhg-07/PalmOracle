@@ -93,7 +93,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Backend runs on **http://localhost:5000**
+Backend runs on **http://localhost:5001**
 
 ---
 
@@ -105,7 +105,7 @@ npm install
 npm start
 ```
 
-Frontend runs on **http://localhost:3000**
+Frontend runs on **http://localhost:5173**
 
 ---
 
@@ -160,7 +160,7 @@ axios
 
 | Upload Screen | Results Screen |
 |---|---|
-| ![upload](https://github.com/user-attachments/assets/147a021d-147e-4b07-a3c0-ef193a2037b7) | ![results](#) |
+| ![upload](https://github.com/user-attachments/assets/e6fe3705-b0d8-41b0-944c-26d206821b07) | ![results](https://github.com/user-attachments/assets/b324527d-8c49-450c-b996-a6047427d271) |
 
 ---
 
